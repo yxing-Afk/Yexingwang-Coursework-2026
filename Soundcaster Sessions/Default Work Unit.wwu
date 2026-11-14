@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5F182570-F8D7-41C3-AC41-414EC6406724}" SchemaVersion="133">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{5F182570-F8D7-41C3-AC41-414EC6406724}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{FB0627C5-6369-4E30-AA47-39CE37D6D5CB}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play" ID="{2C468FFA-414B-46B5-803D-E3B2670A6764}" WorkUnitID="{21633086-56F2-4105-B580-B4488FE3144E}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+					</ModuleList>
+				</SoundcasterSession>
+				<SoundcasterSession Name="New Soundcaster Session_01" ID="{D1E32FF5-4328-4D0F-92C9-0CD474090B15}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_01" ID="{DD9AB569-CA04-4812-A5D0-E8FE4621E68B}" WorkUnitID="{21633086-56F2-4105-B580-B4488FE3144E}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play" ID="{2C468FFA-414B-46B5-803D-E3B2670A6764}" WorkUnitID="{21633086-56F2-4105-B580-B4488FE3144E}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+					</ModuleList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

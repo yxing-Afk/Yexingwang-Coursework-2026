@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{21633086-56F2-4105-B580-B4488FE3144E}" SchemaVersion="133">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{21633086-56F2-4105-B580-B4488FE3144E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play" ID="{2C468FFA-414B-46B5-803D-E3B2670A6764}">
+					<ChildrenList>
+						<Action Name="" ID="{4AEB5731-683B-4947-BA16-41A2B2C546A6}" ShortID="105289157">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="firecrack_base" ID="{ACF2AC8C-E920-4D87-8FCC-BC92E2163DBA}" WorkUnitID="{A3208107-5837-48B3-839C-2DB5FB1A96DB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{12D0AE77-38B5-47A9-9A0C-74703577D350}" ShortID="837098074">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tavern ambience_base" ID="{09E19E99-944E-48F2-80E1-91557F8A6034}" WorkUnitID="{A3208107-5837-48B3-839C-2DB5FB1A96DB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_01" ID="{DD9AB569-CA04-4812-A5D0-E8FE4621E68B}">
+					<ChildrenList>
+						<Action Name="" ID="{34DF8CDB-37AD-4AF5-83C6-C927DEC396A0}" ShortID="105002522">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="chair move" ID="{04F94623-E6CB-49EE-88C0-519A5A2D334B}" WorkUnitID="{A3208107-5837-48B3-839C-2DB5FB1A96DB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{A7F9E35B-B0DB-4090-B695-8800C4D39497}" ShortID="772734982">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="glass clink" ID="{E3CFEB8E-1618-4DA9-8DE6-1C06367A23AE}" WorkUnitID="{A3208107-5837-48B3-839C-2DB5FB1A96DB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{5111BF14-8892-49C5-98A8-2BE2D54F6B3C}" ShortID="122227183">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="music" ID="{0EEEB304-D203-4E1B-98FB-431359F16D0C}" WorkUnitID="{A3208107-5837-48B3-839C-2DB5FB1A96DB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D61747C7-2541-48CF-9F57-9D3E435FB9DD}" ShortID="181247881">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="rolling dice" ID="{0D5C324E-D191-4725-98E0-D08370AE76A4}" WorkUnitID="{A3208107-5837-48B3-839C-2DB5FB1A96DB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
